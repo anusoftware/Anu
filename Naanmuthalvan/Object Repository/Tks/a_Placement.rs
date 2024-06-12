@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Placement</name>
+   <tag></tag>
+   <elementGuidId>0cb2480f-488f-4b41-ab36-246b66a712bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#primary-menu > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-579 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='primary-menu']/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#primary-menu >> internal:role=link[name=&quot;Placement&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1c3011b0-77b9-44ca-965e-5dfe656dd0ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://tkscas.com/placement/</value>
+      <webElementGuid>0a04a66d-5716-423e-915c-b675078d466d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Placement</value>
+      <webElementGuid>920a27b7-0e08-4012-85a6-7e3f7398ae43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary-menu&quot;)/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-579&quot;]/a[1]</value>
+      <webElementGuid>d5fb580f-c63b-4159-a937-d85baa70dcc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='primary-menu']/li[6]/a</value>
+      <webElementGuid>19f51dac-1809-4ba7-a770-4d9e5f292f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Placement')])[2]</value>
+      <webElementGuid>fe831c15-01ce-47c8-9b10-c40e4a6e11d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus Facility'])[2]/following::a[1]</value>
+      <webElementGuid>f2a5c106-07d7-4fa3-a211-970319dd8736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hostel'])[2]/following::a[2]</value>
+      <webElementGuid>230a57c6-3696-406d-9e5e-770f3e00bc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Activities'])[2]/preceding::a[1]</value>
+      <webElementGuid>0e0e5ee3-3f11-42b8-87bb-af16770b9426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gallery'])[2]/preceding::a[2]</value>
+      <webElementGuid>0b1e49a3-b3b4-4a8d-b6e4-2b8a4abc77dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://tkscas.com/placement/')])[2]</value>
+      <webElementGuid>1b506c64-1c4d-4160-9de5-b73293a329b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div/ul/li[6]/a</value>
+      <webElementGuid>93c4928d-3179-4c04-a847-d893a082bfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://tkscas.com/placement/' and (text() = 'Placement' or . = 'Placement')]</value>
+      <webElementGuid>5271a831-0021-4f45-ac46-e3ae4f8349a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

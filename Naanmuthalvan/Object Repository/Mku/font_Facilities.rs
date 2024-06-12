@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Facilities</name>
+   <tag></tag>
+   <elementGuidId>c3a585cf-e8dd-4938-b757-a8f0ca624043</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='DDE'])[1]/following::font[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Facilities&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>c0048ed7-e89e-4425-9c83-d215dc4650ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>5e68f643-0205-4c52-b496-386457e40d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Facilities </value>
+      <webElementGuid>9a823c6c-535e-47d2-9a72-1ca52f50dedb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;navbar navbar-fixed-top navbar-default&quot;]/div[@class=&quot;navbar&quot;]/div[@class=&quot;collapse navbar-collapse js-navbar-collapse&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown mega-dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;style10&quot;]/font[1]</value>
+      <webElementGuid>c09fffc7-d3d8-4825-abc7-b43cdfed649f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DDE'])[1]/following::font[1]</value>
+      <webElementGuid>be060540-8a8f-4e5b-a7d1-7d00476ee4f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IQAC'])[1]/following::font[2]</value>
+      <webElementGuid>c082b365-ee6d-476d-8c20-9c46205c8584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facilities'])[2]/preceding::font[1]</value>
+      <webElementGuid>1fb6d8e6-6146-4452-905f-cf2c0f78dfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facilities'])[3]/preceding::font[1]</value>
+      <webElementGuid>82f02d68-a11b-4c7e-bc03-0d5a01508347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Facilities']/parent::*</value>
+      <webElementGuid>c78e25d8-3d10-40c1-94ff-01fbbb25b8fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[12]/li/a/span/font</value>
+      <webElementGuid>f0b7293a-f2b5-45e9-ba3b-5570ebedfd30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Facilities ' or . = 'Facilities ')]</value>
+      <webElementGuid>3a1195ae-a8ab-4195-9d2a-2f9aa69046c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

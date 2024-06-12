@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>92b365f9-7b98-45bc-86fb-b7a6e4161aa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.navbar-toggler.collapsed.navicon.justify-content-end > span:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='bg']/div/header/div/div/div[3]/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Toggle navigation&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee30941a-e673-4c24-bea9-6215e9068459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bg&quot;)/div[@class=&quot;page-wraper&quot;]/header[@class=&quot;site-header mo-left header&quot;]/div[@class=&quot;sticky-header main-bar-wraper navbar-expand-lg is-fixed&quot;]/div[@class=&quot;main-bar clearfix&quot;]/div[@class=&quot;container clearfix&quot;]/button[@class=&quot;navbar-toggler collapsed navicon justify-content-end&quot;]/span[2]</value>
+      <webElementGuid>eb03580b-6994-4b29-9e96-659b9c171ee2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='bg']/div/header/div/div/div[3]/button/span[2]</value>
+      <webElementGuid>b36ed579-e5d3-4384-8532-44df5decf084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>94484732-393f-4673-88cb-4f0f988c2fdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

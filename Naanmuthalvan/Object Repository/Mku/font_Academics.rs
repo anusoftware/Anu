@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Academics</name>
+   <tag></tag>
+   <elementGuidId>608e24c3-e48f-4e14-b5fd-9edfe6cbd9bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Organogram'])[1]/following::font[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Academics&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>37bf38bf-206a-4f31-a531-60fb5ffd675e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>b8c28a7d-1965-446a-b3f6-98f3d3afba25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Academics </value>
+      <webElementGuid>885bd31a-f051-4de9-92d7-34ccdd661b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;navbar navbar-fixed-top navbar-default&quot;]/div[@class=&quot;navbar&quot;]/div[@class=&quot;collapse navbar-collapse js-navbar-collapse&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown mega-dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;style10&quot;]/font[1]</value>
+      <webElementGuid>5f239c4a-8a34-465e-a8b1-b3c078be5e6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organogram'])[1]/following::font[1]</value>
+      <webElementGuid>5a2a8b39-7845-45ea-86ac-cb9d4f3d0815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officers'])[1]/following::font[1]</value>
+      <webElementGuid>aadf07ae-1ae3-45b5-8317-8b8ae5863eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academics'])[2]/preceding::font[1]</value>
+      <webElementGuid>6e1e4347-cb82-4a2c-9866-0513809abb43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schools'])[1]/preceding::font[1]</value>
+      <webElementGuid>a0792061-6cd9-4dc2-9786-682f2bf911b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Academics']/parent::*</value>
+      <webElementGuid>ae73b8c9-61c7-4a1b-a73c-6229a3b56c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[4]/li/a/span/font</value>
+      <webElementGuid>f9a7c516-c161-4e8b-a3e8-2c5f09146457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Academics ' or . = 'Academics ')]</value>
+      <webElementGuid>ee1ce46c-015d-42ff-bb98-17ecb3ecb036</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
